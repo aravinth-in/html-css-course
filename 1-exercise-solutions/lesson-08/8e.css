@@ -2,8 +2,15 @@ p {
   font-family: Arial;
 }
 
+.company-name{
+  font-size: 25px;
+  margin-bottom: 0px;
+  margin-left: 150px;
+}
+
 .title {
   font-size: 40px;
+  margin-top: 15px;
   margin-bottom: 25px;
 }
 
